@@ -21,7 +21,7 @@ link_directories(${SWIPL_LIBRARY_DIRS})
 
 
 # export Python libraries
-catkin_python_setup()
+#catkin_python_setup()
 
 
 # C++ client library
